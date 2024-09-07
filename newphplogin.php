@@ -6,7 +6,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $password = $_POST['frm']['password'];
 
     // Connect to the MySQL database
-    $mysqli = new mysqli('fdb1029.awardspace.net', '4272950_temp', 'Mm@9901969183', '4272950_temp');
+    $mysqli = new mysqli('****', '****', '****', '****');
 
     // Check for connection errors
     if ($mysqli->connect_errno) {
