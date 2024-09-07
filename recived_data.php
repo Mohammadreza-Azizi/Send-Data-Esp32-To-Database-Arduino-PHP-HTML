@@ -1,9 +1,9 @@
 <?php
 
-$hostname = "fdb1029.awardspace.net"; 
-$username = "4272950_temp"; 
-$password = "Mm@9901969183"; 
-$database = "4272950_temp"; 
+$hostname = "****"; 
+$username = "****"; 
+$password = "****"; 
+$database = "****"; 
 
 $conn = mysqli_connect($hostname, $username, $password, $database);
 
