@@ -7,10 +7,10 @@ const int oneWireBus = 5;
 OneWire oneWire(oneWireBus);
 DallasTemperature sensors(&oneWire);
 
-String URL = "http://fishpond.scienceontheweb.net/recived_data.php";
+String URL = "http://**************.php";
 
-const char* ssid = "HUAWEI Y8p"; 
-const char* password = "11111111"; 
+const char* ssid = "****"; 
+const char* password = "****"; 
 
 float temperature = 0;
 
