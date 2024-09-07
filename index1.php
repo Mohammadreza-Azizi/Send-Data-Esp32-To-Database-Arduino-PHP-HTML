@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Fishpond Azizi</title>
+  <title>****</title>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js" type="text/javascript"></script>
   <style>
@@ -105,10 +105,10 @@
 
   <?php
   // Database connection
-  $host = "fdb1029.awardspace.net";
-  $username = "4272950_temp";
-  $password = "Mm@9901969183";
-  $dbname = "4272950_temp";
+  $host = "****";
+  $username = "****";
+  $password = "****";
+  $dbname = "****";
   $conn = mysqli_connect($host, $username, $password, $dbname);
 
   // Check connection
